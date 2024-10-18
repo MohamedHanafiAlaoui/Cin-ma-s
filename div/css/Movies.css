@@ -13,6 +13,7 @@
     justify-content: center;
     color: #fff;
     font-size: 3rem;
+    /* object-fit: fill; */
     font-weight: bolder;   
 }
 
